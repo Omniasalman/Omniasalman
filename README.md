@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm omnia salman</h1>
 <h3 align="center">A passionate android developer from egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omniasalman&label=Profile%20views&color=0e75b6&style=flat" alt="omniasalman" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omniasalman" alt="omniasalman" /></a> </p>
+
+- 🔭 I’m currently working on **developing android app**
+
 - 🌱 I’m currently learning **firebase &architectural patter**
 
+- 👯 I’m looking to learning **artificial intelligence**
+
 - 📫 How to reach me **omniasalman928@gmail.com**
+
+- ⚡ Fun fact **I love reading novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,4 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omniasalman&show_icons=true&locale=en&layout=compact" alt="omniasalman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omniasalman&show_icons=true&locale=en" alt="omniasalman" /></p>
+
 
