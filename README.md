@@ -17,7 +17,8 @@
 - 👯 **Collaborations:** I'm open to working on **Manual** and **Automation Software Testing** projects. If you're looking for a partner to optimize your testing process, feel free to reach out!  
 - 🌱 **What I’m Learning:**working on enhancing your skills in software testing, Java programming, REST APIs, and using tools like Postman and Cucumber.**  
 - ⚡ **Fun Fact:** I'am in love with reading books and novels.  
-- ## Skills: 
+- ## Skills:
+*selenium-webdriver 
 * FLUTTER
 * DART
 * BLOC 
