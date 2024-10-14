@@ -15,8 +15,8 @@
 
 - 🔭 **Current Role:** Working in **Software QC & QA**  
 - 👯 **Collaborations:** I'm open to working on **Manual** and **Automation Software Testing** projects. If you're looking for a partner to optimize your testing process, feel free to reach out!  
-- 🌱 **What I’m Learning:** Currently expanding my knowledge in **Software Development** and **Data Engineering**, always eager to stay at the cutting edge of technology.  
-- ⚡ **Fun Fact:** I'm a huge **Petrol Head**! When I’m not working with software, you’ll probably find me discussing cars or attending automotive events.  
+- 🌱 **What I’m Learning:**working on enhancing your skills in software testing, Java programming, REST APIs, and using tools like Postman and Cucumber.**  
+- ⚡ **Fun Fact:** I'am in love with reading books and novels.  
 - ## Skills: 
 * FLUTTER
 * DART
