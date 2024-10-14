@@ -18,7 +18,7 @@
 - 🌱 **What I’m Learning:**working on enhancing your skills in software testing, Java programming, REST APIs, and using tools like Postman and Cucumber.**  
 - ⚡ **Fun Fact:** I'am in love with reading books and novels.  
 - ## Skills:
-*selenium-webdriver 
+* Selenium
 * FLUTTER
 * DART
 * BLOC 
