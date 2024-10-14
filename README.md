@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm omnia salman</h1>
-<h3 align="center">A passionate android developer from egypt</h3>
-
+<p align="center">
+    <img src="https://img.shields.io/badge/Software-QA%20%26%20QC-brightgreen" alt="Software QC & QA" />
+    <img src="https://img.shields.io/badge/Collaborating%20on-Manual%20%26%20Automation%20Testing-blue" alt="Collaborating on Testing" />
+    <img src="https://img.shields.io/badge/Learning-Software%20%26%20Data%20Engineering-yellow" alt="Learning Software & Data Engineering" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omniasalman&label=Profile%20views&color=0e75b6&style=flat" alt="omniasalman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omniasalman" alt="omniasalman" />
   </a> 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
  </a> 
 </p>
 
+## 💫 About Me:
 
-- 🔭 I’m currently working on **developing android app**
- - 🌱 I’m currently learning Flutter Framework 
-- 📫 How to reach me **omniasalman928@gmail.com**
-- ⚡ Fun fact **I love reading novels**
+- 🔭 **Current Role:** Working in **Software QC & QA**  
+- 👯 **Collaborations:** I'm open to working on **Manual** and **Automation Software Testing** projects. If you're looking for a partner to optimize your testing process, feel free to reach out!  
+- 🌱 **What I’m Learning:** Currently expanding my knowledge in **Software Development** and **Data Engineering**, always eager to stay at the cutting edge of technology.  
+- ⚡ **Fun Fact:** I'm a huge **Petrol Head**! When I’m not working with software, you’ll probably find me discussing cars or attending automotive events.  
 - ## Skills: 
 * FLUTTER
 * DART
