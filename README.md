@@ -2,7 +2,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Software-QA%20%26%20QC-brightgreen" alt="Software QC & QA" />
     <img src="https://img.shields.io/badge/Collaborating%20on-Manual%20%26%20Automation%20Testing-blue" alt="Collaborating on Testing" />
-    <img src="https://img.shields.io/badge/Learning-Software%20%26%20Data%20Engineering-yellow" alt="Learning Software & Data Engineering" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omniasalman&label=Profile%20views&color=0e75b6&style=flat" alt="omniasalman" /> </p>
 
